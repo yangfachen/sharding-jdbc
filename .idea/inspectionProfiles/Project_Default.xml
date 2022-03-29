@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="scopesOrder">
+      <list>
+        <option value="Open Files" />
+        <option value="Production" />
+        <option value="Project Files" />
+        <option value="Scratches and Consoles" />
+        <option value="Tests" />
+      </list>
+    </option>
+    <inspection_tool class="ConfigurationProperties" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpringBootAdditionalConfig" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpringBootApplicationProperties" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringBootApplicationSetup" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
